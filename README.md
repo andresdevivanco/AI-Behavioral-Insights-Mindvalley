@@ -9,6 +9,9 @@ The goal of this project is to analyze how AI algorithms personalize content rec
 ### Why This Project?
 Understanding the inner workings of AI recommendation systems is vital for transparency, user empowerment, and ethical AI development. This project will give insights into how digital platforms use AI to influence user engagement and learning.
 
+### General Survey
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdqmY1gGbGu6RZxzkFhezGByt1oGxbnCcsXfz64W8Pz8ExvMg/viewform?usp=sf_link)
+
 ---
 
 ## 🛠 Tech Stack
