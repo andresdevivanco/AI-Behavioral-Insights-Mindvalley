@@ -55,6 +55,30 @@ Set Up Database for Data Collection
 Develop Data Processing Pipeline
 Implement NLP Analysis of User Feedback
 Build Visualization Dashboards
+
+## 🚀 Call for Collaborators: AI Behavioral Insights Project
+
+### 📚 Project Overview
+We are developing an open-source system to analyze how AI platforms like Mindvalley personalize content for users. By simulating user interactions and analyzing the resulting data, we aim to uncover patterns in AI-driven recommendations.
+
+### 🧠 Why We Need You
+To build realistic user simulations, we need expertise from multiple fields:
+1. **Psychologists & Behavioral Scientists**: Help us design user personas based on psychological research.
+2. **Data Scientists & ML Engineers**: Analyze user behavior data and train models to predict AI adaptations.
+3. **Developers**: Assist with automation scripts, data pipelines, and orchestration tools.
+
+### 🛠 Current Needs
+- **Psychology Experts**: Design profiles using the Big Five personality traits.
+- **Data Engineers**: Set up databases to store interaction data.
+- **Developers**: Automate data collection using Playwright (TypeScript).
+
+### 🎯 How to Get Involved
+- **Fork this repo**: [Repo Link]
+- Check out our **roadmap** and pick an issue that interests you.
+- Join our **Discord channel** [Invite Link] to collaborate with the team.
+
+Feel free to reach out if you have questions or ideas! Let's build something amazing together 🚀
+
 🛡️ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
